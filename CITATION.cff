@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Heating system - process identification using
+  physics-based neural networks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kim
+    family-names: Roos
+    email: kim.roos@arcada.fi
+    orcid: 'https://orcid.org/0009-0006-6555-6909'
+    affiliation: Arcada University Of Applied Sciences
+repository-code: 'https://github.com/KimRoosArcada/ProcessIdentification'
