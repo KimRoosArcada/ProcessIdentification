@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Heating system - process identification using
+  Heating system - process identification using  
   physics-based neural networks
 message: >-
   If you use this software, please cite it using the
@@ -13,6 +13,13 @@ authors:
   - given-names: Kim
     family-names: Roos
     email: kim.roos@arcada.fi
-    orcid: 'https://orcid.org/0009-0006-6555-6909'
     affiliation: Arcada University Of Applied Sciences
-repository-code: 'https://github.com/KimRoosArcada/ProcessIdentification'
+    orcid: 'https://orcid.org/0009-0006-6555-6909'
+  - given-names: Leonardo
+    family-names: Espinosa-Leal
+    email: leonardo.espinosaleal@arcada.fi
+    affiliation: Arcada University of Applied Sciences
+  - email: matias.waller@ha.ax
+    given-names: Matias
+    family-names: Waller
+    affiliation: Åland University of Applied Sciences
